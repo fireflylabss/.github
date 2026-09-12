@@ -2,7 +2,7 @@
 Firefly Labs is an independent technology lab focused on building
 open-source tools, developer utilities, and experimental systems.
 
-Our community is the ultimate guide for sucess.
+Our community is the ultimate guide for success.
 **Code comes first. Hype does not.**
 
 ---
@@ -22,7 +22,7 @@ Some projects are experimental. Some are stable. **All of them are real.**
   <table border="1" width="100%">
     <tr>
       <td align="center">
-        <img src="hero.png" width="100%">
+        <img src="hero-white.png" width="100%">
       </td>
     </tr>
   </table>
